@@ -44,6 +44,10 @@
   background-image: url('../img/restaurant-2.jpg');
 }
 
+.carousel-caption {
+  margin-bottom: 45px;
+}
+
 button.btn-warning {
   background-color: #F8512F;
   border-color: #F8512F;
